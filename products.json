@@ -1,0 +1,50 @@
+{
+    "products": [
+        {
+            "Id": 1,
+            "Name": "Product 1",
+            "Description": "This is product 1",
+            "Category": "Category 1",
+            "SubCategory": "SubCategory 1",
+            "RegularPrice": 100.0,
+            "SalePrice": 80.0,
+            "ImageUrl": "http://example.com/product1.jpg",
+            "VideoUrl": "http://example.com/product1.mp4",
+            "SKU": "SKU1",
+            "StockStatus": "In Stock",
+            "Weight": 1.0,
+            "Dimensions": "10x10x10",
+            "Variants": "Variant 1",
+            "Reviews": "Review 1",
+            "Ratings": "5",
+            "RelatedProducts": "Product 2, Product 3",
+            "MetaTitle": "Product 1 Title",
+            "MetaDescription": "This is the description for Product 1",
+            "Keywords": "product, 1",
+            "ProductType": "Type 1"
+        },
+        {
+            "Id": 2,
+            "Name": "Product 2",
+            "Description": "This is product 2",
+            "Category": "Category 2",
+            "SubCategory": "SubCategory 2",
+            "RegularPrice": 200.0,
+            "SalePrice": null,
+            "ImageUrl": "http://example.com/product2.jpg",
+            "VideoUrl": "http://example.com/product2.mp4",
+            "SKU": "SKU2",
+            "StockStatus": "Out of Stock",
+            "Weight": 2.0,
+            "Dimensions": "20x20x20",
+            "Variants": "Variant 2",
+            "Reviews": "Review 2",
+            "Ratings": "4",
+            "RelatedProducts": "Product 1, Product 3",
+            "MetaTitle": "Product 2 Title",
+            "MetaDescription": "This is the description for Product 2",
+            "Keywords": "product, 2",
+            "ProductType": "Type 2"
+        }
+    ]
+}
